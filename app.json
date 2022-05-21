@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/fjurg87flhe/bnmv",
+  "repository": "https://github.com/fjurg87flhe/bnmv",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
